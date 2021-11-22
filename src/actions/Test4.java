@@ -19,7 +19,7 @@ public class Test4 {
 		WebElement ele = driver.findElement(By.id("add"));
 		Actions a=new Actions(driver);
 		a.doubleClick(ele).perform();
-		a.doub
+	
 	}
 
 }
